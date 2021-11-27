@@ -1,0 +1,3 @@
+include ':app:speedtest'
+include ':app'
+rootProject.name = "SpeedTest"
