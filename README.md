@@ -17,5 +17,7 @@ allprojects {
 # Step 2. Add the dependency
 
 ```java
-implementation 'com.github.waheedsabir:SpeedTest:Tag'
+dependencies {
+	        implementation 'com.github.waheedsabir:SpeedTest:0.0.1'
+	}
 ```
